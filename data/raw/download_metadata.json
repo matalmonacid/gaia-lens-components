@@ -1,0 +1,18 @@
+{
+  "service_url": "https://gea.esac.esa.int/tap-server/tap",
+  "table": "gaiafpr.lens_observation",
+  "dataset_doi": "10.57780/esa-sfvnhs3",
+  "scope": "All observations for 390 Gaia FPR sources preselected around 340 catalogue targets",
+  "source_count": 390,
+  "preselection_table": "gaiafpr.lens_candidates",
+  "preselection_radius_arcsec": 10.0,
+  "radius_arcsec_analysis": 3.0,
+  "retrieved_utc": "2026-10-01T15:39:03.563249+00:00",
+  "rows": 34654,
+  "maxrec_per_source": 30000,
+  "query_sha256": "cf1bd2fe3e581e44f86d9140859b6824b30749afee183a6df0945c93a5e24280",
+  "source_preselection_query_sha256": "2947cb1a57a0f002142a28b25d3bc228fb224b7eea3c0e1b5b5bb50f47068ddb",
+  "csv_sha256": "4c69b79f28e0ccd890453fde99f06165764c84ad6043c2218b82b70cf96de53c",
+  "target_csv_sha256": "43ce68cbc30bddbd514b5c6d4c8e9be04447f7d48fbfac9b320b3fc084860503",
+  "selected_ids_sha256": "44e3b20511548d7e90b89a59652de46974c20e931733c32bae694068d4b8376d"
+}

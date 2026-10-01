@@ -1,0 +1,1562 @@
+[
+  {
+    "source_id": "1016218227493362816",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1016218227493362816 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1022663637669586176",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1022663637669586176 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1022663637670776192",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1022663637670776192 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1026420252290292480",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1026420252290292480 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1028742871820608896",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1028742871820608896 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1032182620933181056",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1032182620933181056 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1043171896055716608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1043171896055716608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1045166002126206720",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1045166002126206720 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1045166002126206848",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1045166002126206848 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1097468632092418304",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1097468632092418304 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1097468636388676608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1097468636388676608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1103603357219723904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1103603357219723904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1166224568806961536",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1166224568806961536 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1183277886778566272",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1183277886778566272 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1183277886779443840",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1183277886779443840 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1185445780111141248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1185445780111141248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1225461582386571008",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1225461582386571008 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1254357435158834688",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1254357435158834688 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1273226390427172352",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1273226390427172352 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1273226390428957696",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1273226390428957696 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1276417035731273728",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1276417035731273728 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1295547782140509568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1295547782140509568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1321567759175629568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1321567759175629568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1321567763467349760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1321567763467349760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1321657717261574784",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1321657717261574784 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1324266274238816256",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1324266274238816256 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1341082101994960768",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1341082101994960768 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1341082101994960896",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1341082101994960896 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1355268580837307776",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1355268580837307776 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1356637374030072832",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1356637374030072832 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1378843106568715904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1378843106568715904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1378843106571815552",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1378843106571815552 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1379167221982160640",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1379167221982160640 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1386394105751734272",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1386394105751734272 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1394341513236290560",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1394341513236290560 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1413620762434551296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1413620762434551296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1454504418686043904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1454504418686043904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1454504422981470976",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1454504422981470976 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1462247969845008000",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1462247969845008000 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1464911708560136064",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1464911708560136064 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1469230594530741760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1469230594530741760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1475457506833914496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1475457506833914496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1475457506834977280",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1475457506834977280 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1489599970852674176",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1489599970852674176 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1489600073930470912",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1489600073930470912 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1512004689227301632",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1512004689227301632 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1537658249711963904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1537658249711963904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1537658352791579776",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1537658352791579776 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1552838004166992256",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1552838004166992256 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1557058071526709248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1557058071526709248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1557058071528212608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1557058071528212608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1588103057214934016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1588103057214934016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1588262039724487424",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1588262039724487424 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1599341745383363328",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1599341745383363328 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1599341749679519488",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1599341749679519488 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1618050348048027648",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1618050348048027648 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1661333963305005184",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1661333963305005184 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1664316526033584768",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1664316526033584768 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1664316526034711296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1664316526034711296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1703314592858616960",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1703314592858616960 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1729026461820390400",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1729026461820390400 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1729026466116588544",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1729026466116588544 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "175720825910626304",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=175720825910626304 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1778133438550754688",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1778133438550754688 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1783913498162557696",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1783913498162557696 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1790150482167182464",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1790150482167182464 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1798972581216203008",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1798972581216203008 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1910735807875873664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1910735807875873664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1915945637565926912",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1915945637565926912 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "1915945641862093696",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=1915945641862093696 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "196343055547397888",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=196343055547397888 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2147500041891350656",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2147500041891350656 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2216740923364878464",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2216740923364878464 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2216740927658907648",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2216740927658907648 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2243182047707156608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2243182047707156608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2291297711623813632",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2291297711623813632 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2327271773580015744",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2327271773580015744 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2335753268837859712",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2335753268837859712 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2355800355108946432",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2355800355108946432 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2358531232755701504",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2358531232755701504 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2369490546185699328",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2369490546185699328 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2373803788569100160",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2373803788569100160 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2384637933765634048",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2384637933765634048 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2392453979675312640",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2392453979675312640 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2409120480008705664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2409120480008705664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2409120484303226880",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2409120484303226880 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2429242023833003648",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2429242023833003648 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2457482365811994368",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2457482365811994368 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2460545948804796032",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2460545948804796032 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2464353660650971520",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2464353660650971520 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2464928391699317504",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2464928391699317504 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2482366096360023424",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2482366096360023424 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2533897461870477568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2533897461870477568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2642513710157215104",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2642513710157215104 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2642513714452133120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2642513714452133120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2664123889646734336",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2664123889646734336 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2664123889647097472",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2664123889647097472 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2675034931939523072",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2675034931939523072 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2704542589921820288",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2704542589921820288 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2727031214774199680",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2727031214774199680 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2727031214774814208",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2727031214774814208 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2747816172132314624",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2747816172132314624 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2804295954148390272",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2804295954148390272 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2805038639894474112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2805038639894474112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2825128744556091264",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2825128744556091264 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2835526791660442752",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2835526791660442752 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2842976433909914880",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2842976433909914880 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2879701840266387328",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2879701840266387328 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2903331715240526592",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2903331715240526592 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2916884604802806656",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2916884604802806656 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2916884609097868672",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2916884609097868672 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "2959785663027256832",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=2959785663027256832 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3000185396729743104",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3000185396729743104 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3080259323881652608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3080259323881652608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3092314541167221760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3092314541167221760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3096425271546008960",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3096425271546008960 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3097346657995436800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3097346657995436800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3138952727746236800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3138952727746236800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3178020716638059264",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3178020716638059264 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3178020716640423680",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3178020716640423680 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3185808420058249856",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3185808420058249856 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3185808420059318016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3185808420059318016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3187010529864990464",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3187010529864990464 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3187010529866092672",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3187010529866092672 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3261414236903292160",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3261414236903292160 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "328069053976561536",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=328069053976561536 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3310898517920595968",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3310898517920595968 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3361094861567546112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3361094861567546112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3361094861571960704",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3361094861571960704 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3361094865862486656",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3361094865862486656 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "337933769222851840",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=337933769222851840 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3385786701564912384",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3385786701564912384 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "347285940250887296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=347285940250887296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3488423118425915008",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3488423118425915008 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3488423122720350976",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3488423122720350976 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "350937280928094336",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=350937280928094336 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3511426761399393280",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3511426761399393280 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3511426761399556352",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3511426761399556352 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3518633402989658112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3518633402989658112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3541826024524572544",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3541826024524572544 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3541826024526317312",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3541826024526317312 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3541826024526317568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3541826024526317568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3552950883176150016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3552950883176150016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3585320123243965184",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3585320123243965184 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3586098513053631232",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3586098513053631232 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3661273699296342016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3661273699296342016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3681691771957505536",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3681691771957505536 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3681691771958753664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3681691771958753664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3696663890512658048",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3696663890512658048 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3696663890514240640",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3696663890514240640 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3711531005707407104",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3711531005707407104 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3712919517094734592",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3712919517094734592 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "372057559265314688",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=372057559265314688 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "372057559266443392",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=372057559266443392 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3723950157046484096",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3723950157046484096 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3727266494569190016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3727266494569190016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3728132218243655552",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3728132218243655552 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3728132222537608960",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3728132222537608960 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3729511589940494848",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3729511589940494848 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3733119018870073216",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3733119018870073216 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3733516084302177408",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3733516084302177408 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3740575391333625728",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3740575391333625728 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3740575391335663744",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3740575391335663744 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3746665350018082048",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3746665350018082048 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3783971985705434112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3783971985705434112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3800591481917387392",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3800591481917387392 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3806936797880018304",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3806936797880018304 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3807267368628379008",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3807267368628379008 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3817878828361980288",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3817878828361980288 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3817878828362669568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3817878828362669568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3828696197419013248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3828696197419013248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3828696197422634112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3828696197422634112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3832692028832113024",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3832692028832113024 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3832692033126977664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3832692033126977664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3834882049836631168",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3834882049836631168 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3834882054131088512",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3834882054131088512 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3836060833675603840",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3836060833675603840 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3838418972584438016",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3838418972584438016 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3842934499335828608",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3842934499335828608 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3844748070752040576",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3844748070752040576 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3851608129957910400",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3851608129957910400 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3862737562746164992",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3862737562746164992 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3874291742031312512",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3874291742031312512 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3874291746326640128",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3874291746326640128 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3876832198007366912",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3876832198007366912 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3937637737940083328",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3937637737940083328 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3938214363067948800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3938214363067948800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3941492793209513088",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3941492793209513088 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3941492797505654784",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3941492797505654784 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3956501195648081920",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3956501195648081920 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "395754921063313024",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=395754921063313024 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3975233510826944640",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3975233510826944640 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3977375153318276864",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3977375153318276864 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3985692782689406592",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3985692782689406592 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "3992914344995211136",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=3992914344995211136 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4010648879140787584",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4010648879140787584 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4024730328852846976",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4024730328852846976 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4029169843273586176",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4029169843273586176 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4034893900807493248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4034893900807493248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4091646396130791296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4091646396130791296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4249707995789272192",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4249707995789272192 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4249707995792583424",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4249707995792583424 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4358554188033274496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4358554188033274496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4358554188033274624",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4358554188033274624 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4377576215935403904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4377576215935403904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4377576220230043904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4377576220230043904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4377576220230044288",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4377576220230044288 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4377576220232090496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4377576220232090496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4383409984113760640",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4383409984113760640 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4420925527012941696",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4420925527012941696 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4423331292814783360",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4423331292814783360 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4423331297112729472",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4423331297112729472 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4447068718065707520",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4447068718065707520 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4447068718068067456",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4447068718068067456 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4449460499458597760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4449460499458597760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4449460503750383488",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4449460503750383488 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4460056527371093120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4460056527371093120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4464350292074707200",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4464350292074707200 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4563464397668993536",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4563464397668993536 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4586221638368020864",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4586221638368020864 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4586221642663205120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4586221642663205120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4624301922219288704",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4624301922219288704 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4624301922220808832",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4624301922220808832 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4643616493228910080",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4643616493228910080 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4672765852152430848",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4672765852152430848 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4674636220215752448",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4674636220215752448 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4674636224510336256",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4674636224510336256 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4683151559814721920",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4683151559814721920 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4721027124050409088",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4721027124050409088 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4733652128878031616",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4733652128878031616 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4733652133172591488",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4733652133172591488 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4778637895508914048",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4778637895508914048 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4779902849277205760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4779902849277205760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4806652936390037120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4806652936390037120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4807486087029366784",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4807486087029366784 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4813484648808076544",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4813484648808076544 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4813484717527554560",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4813484717527554560 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4821279499055314304",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4821279499055314304 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4821279499056544128",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4821279499056544128 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4826116113268202112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4826116113268202112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4830236636170244480",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4830236636170244480 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4834883855209175296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4834883855209175296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4834883859503957760",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4834883859503957760 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4842045799074927232",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4842045799074927232 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4845606601840777344",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4845606601840777344 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4845606601841070720",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4845606601841070720 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4847636854356849024",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4847636854356849024 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4855076046952719360",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4855076046952719360 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4877981863455306880",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4877981863455306880 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4877987734675447936",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4877987734675447936 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4883180423150691584",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4883180423150691584 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4883180423151513088",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4883180423151513088 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4915503625466318464",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4915503625466318464 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4956574748449686272",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4956574748449686272 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4960819894125714944",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4960819894125714944 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4964421000864875904",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4964421000864875904 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4964421000865877248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4964421000865877248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4973692181694057216",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4973692181694057216 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4999447421235905408",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4999447421235905408 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "4999447421236508800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=4999447421236508800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5005582829263300992",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5005582829263300992 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5024429528010102144",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5024429528010102144 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5024429528010569856",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5024429528010569856 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5026013340149803520",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5026013340149803520 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5026013408869280128",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5026013408869280128 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5075630859644356480",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5075630859644356480 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5075630863938012928",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5075630863938012928 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5077935264216200832",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5077935264216200832 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5082980996090316800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5082980996090316800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5085135764002995584",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5085135764002995584 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5085135764004840704",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5085135764004840704 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5087747928752251776",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5087747928752251776 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5087747928754370560",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5087747928754370560 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5092819151257833216",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5092819151257833216 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5098921578230761472",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5098921578230761472 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5101261953155127680",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5101261953155127680 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5119104866505106688",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5119104866505106688 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5119104866505106816",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5119104866505106816 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5119328548401927936",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5119328548401927936 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5119328548402476288",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5119328548402476288 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5124658637175794048",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5124658637175794048 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5124658637176714112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5124658637176714112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5126705515510051584",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5126705515510051584 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5126705515511054080",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5126705515511054080 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5129319295167434496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5129319295167434496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5148785182169525248",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5148785182169525248 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5148785186464567168",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5148785186464567168 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5153828508862119040",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5153828508862119040 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5174409201871203584",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5174409201871203584 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5174520832365481344",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5174520832365481344 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5174520836660663296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5174520836660663296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5184007624848431872",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5184007624848431872 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5184007624848901888",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5184007624848901888 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5261791097486778624",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5261791097486778624 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5375888625987708032",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5375888625987708032 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5475292998353108864",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5475292998353108864 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "549281756873086080",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=549281756873086080 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "549281756875772672",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=549281756875772672 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "549718671012171520",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=549718671012171520 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5566802941656378496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5566802941656378496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5571264248740974080",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5571264248740974080 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5643847512428416384",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5643847512428416384 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5668105247186154624",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5668105247186154624 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5687124801186026880",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5687124801186026880 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5687124805481221632",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5687124805481221632 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5691734916002651136",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5691734916002651136 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5694395291770945280",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5694395291770945280 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5694395394841069440",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5694395394841069440 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "5742645229241022592",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=5742645229241022592 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "580537092879961472",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=580537092879961472 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6040970427810922496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6040970427810922496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "607381016436338560",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=607381016436338560 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6157733885457412096",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6157733885457412096 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6159550763996866944",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6159550763996866944 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6188399539633943296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6188399539633943296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6209097506725007104",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6209097506725007104 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6209097506725396096",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6209097506725396096 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "621369170868621696",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=621369170868621696 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6242307087212539776",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6242307087212539776 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6242307087212540032",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6242307087212540032 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6266132198513062400",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6266132198513062400 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6266132198513062528",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6266132198513062528 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6287286424275245568",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6287286424275245568 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6411021202258686592",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6411021202258686592 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6412034913323287296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6412034913323287296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "646884373278812544",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=646884373278812544 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6478051657334747264",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6478051657334747264 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6484621514187585408",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6484621514187585408 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6484621514187585664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6484621514187585664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "649514817411198976",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=649514817411198976 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6501210979989061120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6501210979989061120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6530763065108738176",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6530763065108738176 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6564118781857148288",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6564118781857148288 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6574990099996993280",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6574990099996993280 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6578083228069136128",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6578083228069136128 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6605186571945821056",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6605186571945821056 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6605186571946220928",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6605186571946220928 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6619041414888454400",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6619041414888454400 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6674418764699092736",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6674418764699092736 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6675746940387128192",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6675746940387128192 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6680426251420170112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6680426251420170112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6680426255713853824",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6680426255713853824 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6681326549578891776",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6681326549578891776 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "670520540382618496",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=670520540382618496 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "672293537240480768",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=672293537240480768 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6733997962623251840",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6733997962623251840 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6752010028962114816",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6752010028962114816 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6775750611012209152",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6775750611012209152 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6775750615307601664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6775750615307601664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6810217556059370240",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6810217556059370240 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "682614034415644032",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=682614034415644032 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6835936404342726400",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6835936404342726400 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6843364189503761792",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6843364189503761792 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6843364189504521728",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6843364189504521728 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6884039075985949056",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6884039075985949056 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6896655868834913664",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6896655868834913664 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "6896655868835640192",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=6896655868835640192 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "695593902327484544",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=695593902327484544 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "698878899471973120",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=698878899471973120 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "698878899473762432",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=698878899473762432 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "702967502179137024",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=702967502179137024 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "712654684950723072",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=712654684950723072 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "712654684952908800",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=712654684952908800 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "717587845734293376",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=717587845734293376 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "730552393494441856",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=730552393494441856 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "764550225032924160",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=764550225032924160 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "78702389482720512",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=78702389482720512 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "797882950821190144",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=797882950821190144 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "806853174702355072",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=806853174702355072 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "806853174702356352",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=806853174702356352 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "806853178999388928",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=806853178999388928 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "806853178999690112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=806853178999690112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "807714470266431488",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=807714470266431488 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "817452844753700736",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=817452844753700736 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "817452844756170368",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=817452844756170368 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "827031141513223936",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=827031141513223936 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "827031897427468160",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=827031897427468160 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "831109848615704960",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=831109848615704960 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "831109848622506112",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=831109848622506112 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "83871575896093312",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=83871575896093312 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "846839457666932736",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=846839457666932736 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "863270769886565376",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=863270769886565376 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "867913659598182272",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=867913659598182272 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "921013100487291392",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=921013100487291392 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "921013100488626944",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=921013100488626944 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "925907232901783296",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=925907232901783296 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "930071976789499648",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=930071976789499648 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "960989934524017792",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=960989934524017792 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "960989934525960320",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=960989934525960320 ORDER BY component_id,observation_id"
+  },
+  {
+    "source_id": "975837803970276864",
+    "query": "SELECT solution_id,source_id,component_id,observation_id,epoch_obs,ra_obs,dec_obs,g_mag_obs,g_flux_obs,g_flux_obs_error FROM gaiafpr.lens_observation WHERE source_id=975837803970276864 ORDER BY component_id,observation_id"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "objetivos_catalogo": 340,
+  "observaciones_originales": 34654,
+  "filas_exactamente_repetidas": 0,
+  "observaciones_asociadas": 31221,
+  "observaciones_excluidas": 3433,
+  "lentes_con_datos": 289,
+  "grupos_lente_fuente": 379,
+  "ajustes_validos": 379,
+  "ajustes_fallidos": 0,
+  "componentes_espaciales": 864,
+  "pares_temporales": 18886,
+  "asociaciones_ambiguas": 0,
+  "magnitudes_faltantes": 0,
+  "parametros": {
+    "radio_arcsec": 3.0,
+    "semilla": 42,
+    "n_init": 20,
+    "semillas_estabilidad": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "muestra_silueta": 1000,
+    "tolerancia_segundos": 1.0,
+    "source_ids_file": "data/raw/selected_source_ids.csv"
+  }
+}
